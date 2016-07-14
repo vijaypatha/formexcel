@@ -1,0 +1,2 @@
+$( ".freebirdFormviewerViewNavigationPasswordWarning").hide();
+$('.freebirdFormviewerViewFooterDisclaimer').hide();
